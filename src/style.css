@@ -1,0 +1,7 @@
+@import url('./assets/sourcesanspro/sourcesanspro.css');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
